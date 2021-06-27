@@ -1,0 +1,21 @@
+Your Name : Akash Yanpure
+
+Group Name : Neeral Finiq
+
+Automation
+
+Your Update : This is test for python automation for daily updates
+
+Your Update : Test Begins
+
+Your Update : All these messages are scripted.
+
+Your Update : You can send your all daily updates on singel click.
+
+Your Update : Updates are according to the time specified by user.
+
+Your Update : Test Successful!
+
+Your Update : Thank you.
+Regard, Akash Yanpure
+
